@@ -7,7 +7,7 @@ require (
 	github.com/davecgh/go-spew v1.1.1
 	github.com/fatih/structs v1.1.0
 	github.com/go-sql-driver/mysql v1.6.0
-	github.com/go-xorm/xorm v0.7.9
+	gitea.com/xorm/xorm v0.7.9
 	github.com/golang/protobuf v1.5.2
 	github.com/gorilla/mux v1.8.0
 	github.com/julienschmidt/httprouter v1.3.0

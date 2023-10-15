@@ -3,7 +3,7 @@ package models
 import (
 	"time"
 	"encoding/json"
-	"github.com/go-xorm/xorm"
+	"gitea.com/xorm/xorm"
 	"github.com/nttdots/go-dots/dots_common/messages"
 	"github.com/nttdots/go-dots/dots_server/db_models"
 	log "github.com/sirupsen/logrus"

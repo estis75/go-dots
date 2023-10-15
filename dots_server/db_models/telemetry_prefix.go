@@ -1,7 +1,7 @@
 package db_models
 
 import "time"
-import "github.com/go-xorm/xorm"
+import "gitea.com/xorm/xorm"
 
 const TELEMETRY = "TELEMETRY"
 const TELEMETRY_SETUP = "TELEMETRY_SETUP"

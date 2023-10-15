@@ -4,7 +4,7 @@ import (
 	"net"
 	"errors"
 
-	"github.com/go-xorm/xorm"
+	"gitea.com/xorm/xorm"
 	"github.com/nttdots/go-dots/dots_server/db_models"
 	log "github.com/sirupsen/logrus"
 )

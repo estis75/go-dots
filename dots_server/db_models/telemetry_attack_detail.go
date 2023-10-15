@@ -1,7 +1,7 @@
 package db_models
 
 import "time"
-import "github.com/go-xorm/xorm"
+import "gitea.com/xorm/xorm"
 
 type TelemetryAttackDetail struct {
 	Id                int64     `xorm:"'id' pk autoincr"`

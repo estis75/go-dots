@@ -6,7 +6,7 @@ import (
 	"testing"
 
 	"fmt"
-	"github.com/go-xorm/xorm"
+	"gitea.com/xorm/xorm"
 	"github.com/nttdots/go-dots/dots_server/db_models"
 	"github.com/nttdots/go-dots/dots_server/models"
 )
